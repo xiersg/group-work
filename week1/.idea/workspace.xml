@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f649143b-d3a9-4ea3-9e39-f69d02589e6c" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/week1_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f649143b-d3a9-4ea3-9e39-f69d02589e6c" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -37,26 +29,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.data_c.executor": "Run",
-    "Python.sigmoid梯度下降.executor": "Run",
-    "Python.多元线性回归.executor": "Run",
-    "Python.预处理 (1).executor": "Run",
-    "Python.预处理.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "xier",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/main作业/group work/Week_1/week1_code/.venv",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.data_c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sigmoid梯度下降.executor&quot;: &quot;Run&quot;,
+    &quot;Python.多元线性回归.executor&quot;: &quot;Run&quot;,
+    &quot;Python.预处理 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.预处理.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/main作业/group work/Week_1/week1_code/.venv&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\main作业\group work\Week_1\week1_code\.venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.预处理 (1)">
+  <component name="RunManager" selected="Python.sigmoid梯度下降">
     <configuration name="预处理 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="week1_code" />
       <option name="ENV_FILES" value="" />
@@ -169,8 +161,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.预处理 (1)" />
         <item itemvalue="Python.sigmoid梯度下降" />
+        <item itemvalue="Python.预处理 (1)" />
         <item itemvalue="Python.预处理" />
         <item itemvalue="Python.data_c" />
       </list>

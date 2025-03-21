@@ -77,7 +77,7 @@ def val_test(x_val,y_val,w):
     print(f"准确率 = {accur_rate}\n\n")
 
 if __name__ == "__main__":
-    w = SIGMOID(x_train,y_train,1,1000)
+    w = SIGMOID(x_train,y_train,1,20000)
 
     print("验证集",end = "")
     val_test(x_val, y_val, w)
